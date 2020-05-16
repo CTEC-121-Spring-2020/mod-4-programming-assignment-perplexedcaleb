@@ -4,8 +4,9 @@
 
 # <YOUR NAME>
 
+from graphics import *
+
 def main():
-    pass # remove this line 
 
 
 main()
